@@ -1,1 +1,1 @@
-# ejercicio_profesiones2
+# ejercicio_herenciaprofesiones2
